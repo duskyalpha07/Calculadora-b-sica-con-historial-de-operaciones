@@ -1,1 +1,1 @@
-# Calculadora-b-sica-con-historial-de-operaciones
+# Calculadora-basica-con-historial-de-operaciones
